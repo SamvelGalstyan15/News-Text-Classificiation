@@ -29,7 +29,8 @@ The model leverages the pre-trained feature extractor of RuBERT-tiny2 to convert
 
 To set up the environment and install all dependencies, run the following commands:
 
-```# Create virtual environment
+```
+# Create virtual environment
 python -m venv venv
 
 # Activate virtual environment
