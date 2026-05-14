@@ -1,8 +1,11 @@
 venv/
 .env
 
-__pycache__/
-*.py[cod]
+*.py[co]
+*.pyc
+*$py.class
 
-*.csv
-*.xlsx
+.vscode/
+.idea/
+
+.ipynb_checkpoints/
